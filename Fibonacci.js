@@ -1,4 +1,3 @@
-
 var previous = 0;
 var current = 1;
 var sum = 0;
